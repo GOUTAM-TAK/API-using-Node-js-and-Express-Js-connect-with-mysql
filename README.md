@@ -1,4 +1,4 @@
-In this API we can use following functionality in TO-DO-LIST 
+In this API we can use following functionality in PRODUCT MANAGEMENT SYSTEM
 1)ADD PRODUCT
 2)GET ALL LIST OF PRODUCTS
 3)GET PRODUCT BY PRODUCT ID
